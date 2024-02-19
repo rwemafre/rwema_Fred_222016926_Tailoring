@@ -1,0 +1,38 @@
+Names : 
+Reg Number:
+
+ description of my project 
+___________________________
+
+
+this project is tailoring online/management where used to reserve different services 
+this system used by two main users admin and farmer 
+
+1. ADMIN
+________
+
+admin is able to add and modify different customers and give password
+admin is able to add and modify different ervices
+admin is able to view and approve different reserves reserved by customers 
+
+2. CUSTOMER
+___________
+
+second user is customer where 
+
+customer login in system and reserve to different services 
+and able to view if his reserve approved or rejected by admin
+
+users cridentios 
+________________
+
+admin
+ email:bit@gmail.com  password:000
+customer
+email:kamana@gmail.com     password:1234
+
+## how to run my project ! 
+
+database must be imported in the name as i did (tailoring)
+project folder must be imported correctly too !!
+
